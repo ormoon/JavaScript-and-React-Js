@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+th {
+  text-align: center;
+}
+
+table,
+th {
+  border: 1px solid black;
+  background-color: rgb(140, 183, 221);
+  color: rgb(219, 91, 40);
+  font-size: large;
+  font-weight: bold;
+}
+
+#clock{
+    margin: 10% 40%;
+}
+
+div h1{
+    padding-left:40px;
+    color:rgb(167, 46, 236);
+}

@@ -1,0 +1,55 @@
+table {
+  border: 1px solid black;
+  font-size: large;
+}
+
+input {
+  width: 60%;
+  margin: 20px;
+  padding: 5px;
+  font-size: large;
+  border-radius: 5px;
+  outline: none;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-size: large;
+  padding: 7px 25px;
+  margin-left: 5px;
+  border-radius: 5px;
+  border: transparent;
+  outline: none;
+}
+
+button:hover {
+  background-color: rgb(157, 138, 224);
+  color: black;
+}
+
+#msg p {
+  background-color: rgb(213, 231, 230);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#success {
+  color: green;
+  font-size: large;
+  font-weight: bold;
+}
+
+#msg #error {
+  color: red;
+  font-size: large;
+  font-weight: bold;
+}
+
+.container {
+  margin: 50px;
+  width: 650px;
+  background-color: rgb(219, 206, 180);
+  padding: 40px 20px 40px 100px;
+  border-radius: 5px;
+}
