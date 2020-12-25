@@ -1,0 +1,22 @@
+label {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+
+input {
+  outline: none;
+  border: transparent;
+  padding: 3px;
+  font-size: large;
+  border-radius: 5px;
+  position: absolute;
+  width: 75%;
+}
+
+.container {
+  margin: 100px 4%;
+  background-color: black;
+  padding: 50px;
+  position: relative;
+}
